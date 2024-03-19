@@ -1,0 +1,12 @@
+.navbar{
+    background-color: teal;
+}
+.navbar-brand , .nav-link{
+    color: white;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-link:hover{
+    color: white;
+}
